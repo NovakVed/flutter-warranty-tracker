@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "656510786731",
+    "project_id": "warranty-tracker-3816c",
+    "storage_bucket": "warranty-tracker-3816c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656510786731:android:402af702c74cab50c86bee",
+        "android_client_info": {
+          "package_name": "com.vednovak.flutter_warranty_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656510786731-jts4m5rnktuhe4jfe06dpcpivi1buc1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrQG5MbduqG2zSsrwSfFGjGwh3Ldxlqgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656510786731-jts4m5rnktuhe4jfe06dpcpivi1buc1d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "656510786731-pgo7atakpsrmrdjt4gbnmndjvolsavsq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vednovak.flutterWarrantyTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
